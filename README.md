@@ -1,4 +1,4 @@
-# Web-scraping Challenge
+# Web Scraping Challenge
 - In this challenge, we extend to scraping various types of data, including HTML tables and recurring elements like multiple news articles on a webpage.
 
 ## Part 1: scrape Mars news articles for their titles and preview text
